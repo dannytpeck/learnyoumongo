@@ -1,0 +1,1 @@
+A simple repo for working through the learnyoumongo exercises!
